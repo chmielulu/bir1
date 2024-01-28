@@ -1,5 +1,5 @@
 # Deprecated Notice:
-This package is deprecated. Please consider using the (bir1)[https://www.npmjs.com/package/bir1] package as a recommended alternative.
+This package is deprecated. Please consider using the [bir1](https://www.npmjs.com/package/bir1) package as a recommended alternative.
 
 ## BIR1 - GUS REGON client
 
