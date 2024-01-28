@@ -1,4 +1,7 @@
-# BIR1 - GUS REGON client
+# Deprecated Notice:
+This package is deprecated. Please consider using the (bir1)[https://www.npmjs.com/package/bir1] package as a recommended alternative.
+
+## BIR1 - GUS REGON client
 
 Simple node.js client library to
 [Statistics Poland](https://en.wikipedia.org/wiki/Statistics_Poland) (GUS)
